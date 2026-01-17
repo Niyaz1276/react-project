@@ -1,0 +1,8 @@
+@import "tailwindcss";
+button:hover{
+    text-decoration: double;
+    color: yellow;
+}
+h3:hover{
+    color: rgb(0, 255, 255);
+}
